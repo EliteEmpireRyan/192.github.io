@@ -57,7 +57,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 text-sm opacity-50">
-            The room is currentl empty.
+            The room is currently empty.
           </p>
         </a>
       </div>
